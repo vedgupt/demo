@@ -2,4 +2,5 @@
 phpinfo();
 
 $a = array('a' => 'white');
+$b = array('a' => 'black');
 ?>
