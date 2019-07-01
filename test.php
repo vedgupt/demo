@@ -1,5 +1,5 @@
 <?php echo "string"; 
 phpinfo();
 
-$a = array('a' => 'white');
+$a = array('a' => 'white','b' => 'red');
 ?>
