@@ -1,5 +1,5 @@
 <?php
-echo 123;
+
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
